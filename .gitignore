@@ -1,0 +1,6 @@
+.metadata
+dht/*
+!dht/Core
+!dht/.cproject
+!dht/.project
+!dht/*.ioc
